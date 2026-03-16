@@ -137,7 +137,7 @@ Three patterns are visible in the figure:
 
 - **Stata** (data cleaning, variable construction, multilevel regression, predictive margins)
 - **R** (ggplot2, ggridges — visualization)
-- Last updated: July 2025
+- Last updated: February 2026
 
 ---
 
